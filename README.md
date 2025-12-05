@@ -1,4 +1,4 @@
-Resumo do Projeto PROFSHUB
+## Resumo do Projeto PROFSHUB
 
 O projeto identifica um problema no Contraturno Tecnológico do SESI: o processo de registrar a presença dos alunos e o consumo diário de alimentos ainda é feito manualmente. 👨‍🏫📄 O professor anota quem está presente e quem comeu, depois envia à diretora, que precisa registrar novamente essas informações em outro sistema. Isso gera retrabalho, demora e chances de erros.
 
