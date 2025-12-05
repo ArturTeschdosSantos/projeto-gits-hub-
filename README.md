@@ -10,13 +10,13 @@ A solução proposta é criar um sistema simples e integrado para registrar pres
 
 O fluxo do sistema inclui: selecionar a turma, selecionar o aluno, registrar presença, registrar se comeu (se presente), salvar os dados e gerar relatórios. 🔄📊
 
-Responsabilidades do grupo:
+##Responsabilidades do grupo:
 Nathália Winter (líder) 👑
 Artur Tesch (comunicador) 💬
 Vitor Mello (programador) 💻
 Isabele Brunner (analista) 📊
 
-RESUMO DO CÓDIGO
+##RESUMO DO CÓDIGO
 
 O programa é um sistema simples de gerenciamento de turmas e alunos, feito em uma linguagem parecida com Portugol/VisualG.
 Ele possui um menu principal com opções para:
@@ -47,7 +47,7 @@ Mostra os alunos carregados na função anterior.
 
 Exibe alunos pré-cadastrados com Presente ou Falta (mas contém um erro: usa presencaTurma1 que não está definido).
 
-🎯 OBJETIVO DO PROGRAMA
+##🎯 OBJETIVO DO PROGRAMA
 
 O objetivo do programa é gerenciar informações escolares de várias turmas permitindo:
 
